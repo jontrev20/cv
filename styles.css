@@ -1,0 +1,29 @@
+body {
+  background-color: #A3DDCB;
+}
+
+hr {
+  border-style: none;
+  border-color: grey;
+  border-width: 8px;
+  border-top-style: dotted;
+  background-color: #A3DDCB;
+  height: 0px;
+  width: 10%;
+}
+
+h1 {
+  color: #19456B;
+}
+
+h3 {
+  color: #19456B;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+ol {
+  list-style-position: inside;
+}
